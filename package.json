@@ -1,5 +1,5 @@
 {
-  "name": "convert-units",
+  "name": "@ipguk/convert-units",
   "version": "2.3.4",
   "description": "Convert between quantities in different units",
   "main": "lib",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ben-ng/convert-units.git"
+    "url": "git://github.com/IPG-Automotive-UK/convert-units.git"
   },
   "keywords": [
     "metric",
@@ -31,6 +31,6 @@
     "ratio",
     "fraction"
   ],
-  "author": "Ben Ng <me@benng.me> (http://benng.me)",
+  "author": "IPG Automotive UK",
   "license": "MIT"
 }
