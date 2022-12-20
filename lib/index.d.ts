@@ -89,7 +89,7 @@ declare module 'convert-units' {
     | 'rpm'
     | 'deg/s'
     | 'rad/s'; // Frequency
-  type uSpeed = 'm/s' | 'km/h' | 'm/h' | 'knot' | 'ft/s'; // Speed
+  type uSpeed = 'm/s' | 'km/h' | 'mi/h' | 'knot' | 'ft/s'; // Speed
   type uPace = 's/m' | 'min/km' | 's/ft' | 'min/km'; // Pace
   type uPressure =
     | 'Pa'
